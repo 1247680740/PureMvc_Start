@@ -1,0 +1,1 @@
+{"version":3,"file":"ProtobufConfig.js","sourceRoot":"","sources":["../../src/config/ProtobufConfig.ts"],"names":["ProtobufConfig","ProtobufConfig.constructor"],"mappings":"AAGA,AAHA;;GAEG;IACG,cAAc;IAEhBA,SAFEA,cAAcA;IAGhBC,CAACA;;IAEaD,kCAAmBA,GAAWA,qBAAqBA,CAACA;IACtEA,qBAACA;AAADA,CAACA,AAND,IAMC;oBANK,cAAc;AAMnB"}
